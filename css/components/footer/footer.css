@@ -140,7 +140,7 @@ hr{
 }
 .copyrights{
     color:var(--subColor);
-    margin: 10px;
+    margin-top: 10px;
     padding: 5px;
     font-style: italic;
 
